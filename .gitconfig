@@ -1,0 +1,5 @@
+[user]
+	email = mapspace@program
+	name = mapspace
+
+# git config --local include.path ../.gitconfig
