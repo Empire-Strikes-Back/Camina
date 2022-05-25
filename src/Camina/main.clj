@@ -304,7 +304,7 @@
 
 (defn -main
   [& args]
-  (println "beltalowda! listen up!")
+  (println "why are you here? speak plainly")
   
   (let [data-dir-path (or
                        (some-> (System/getenv "CAMINA_PATH")
