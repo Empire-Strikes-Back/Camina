@@ -42,8 +42,8 @@ Moana(){
 ui_install(){
   npm i --no-package-lock
   mkdir -p out/ui/
-  cp src/Cara_Dune/index.html out/ui/index.html
-  cp src/Cara_Dune/style.css out/ui/style.css
+  cp src/Camina/index.html out/ui/index.html
+  cp src/Camina/style.css out/ui/style.css
 }
 
 ui_repl(){
